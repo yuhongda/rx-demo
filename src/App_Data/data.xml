@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  <comment>
+    <id>{ID}</id>
+    <content>{内容}</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+-->
+<comments>
+  <comment>
+    <id>1</id>
+    <content>内容内容内容内容内容内容内容内容内容</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+  <comment>
+    <id>2</id>
+    <content>内容内容内容内容内容内容内容内容内容</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+  <comment>
+    <id>3</id>
+    <content>内容内容内容内容内容内容内容内容内容</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+  <comment>
+    <id>4</id>
+    <content>内容内容内容内容内容内容内容内容内容</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+  <comment>
+    <id>5</id>
+    <content>内容内容内容内容内容内容内容内容内容</content>
+    <date>2012-09-03 15:23</date>
+  </comment>
+  <comment>
+    <id>6</id>
+    <content>321</content>
+    <date>2013-03-13 01:08</date>
+  </comment>
+  <comment>
+    <id>7</id>
+    <content>3453453</content>
+    <date>2013-03-13 01:08</date>
+  </comment>
+  <comment>
+    <id>8</id>
+    <content>123213</content>
+    <date>2013-03-13 01:10</date>
+  </comment>
+  <comment>
+    <id>9</id>
+    <content>哈哈哈</content>
+    <date>2013-03-13 01:18</date>
+  </comment>
+  <comment>
+    <id>10</id>
+    <content>哈哈哈哈</content>
+    <date>2013-03-13 01:18</date>
+  </comment>
+  <comment>
+    <id>11</id>
+    <content>123</content>
+    <date>2013-03-25 11:28</date>
+  </comment>
+</comments>
